@@ -37,7 +37,8 @@ During this project, I learned how to:
 ## 📦 Installation & Setup
 
 ```bash
-# Clone the repository https://github.com/Nikhilesh593/GadgetMart.git
+# Clone the repository
+https://github.com/Nikhilesh593/GadgetMart.git
 
 
 # Navigate to the project directory
